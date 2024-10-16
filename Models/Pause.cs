@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace TestApplication.Models
+namespace NotesAPI.Models
 {
     public class Pause
     {

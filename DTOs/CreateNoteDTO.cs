@@ -1,4 +1,4 @@
-﻿namespace TestApplication.DTOs
+﻿namespace NotesAPI.DTOs
 {
     public class CreateNoteDTO
     {

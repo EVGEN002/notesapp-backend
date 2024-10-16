@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace TestApplication.Models
+namespace NotesAPI.Models
 {
     [Table("notes")]
     public class Note

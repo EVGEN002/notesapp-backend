@@ -1,5 +1,5 @@
-using TestApplication.Contexts;
-using TestApplication.Services;
+using NotesAPI.Contexts;
+using NotesAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

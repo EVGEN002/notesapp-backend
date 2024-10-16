@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TestApplication.DTOs;
-using TestApplication.Models;
-using TestApplication.Services;
+using NotesAPI.DTOs;
+using NotesAPI.Models;
+using NotesAPI.Services;
 
-namespace TestApplication.Controllers
+namespace NotesAPI.Controllers
 {
     [Route("/")]
     [ApiController]

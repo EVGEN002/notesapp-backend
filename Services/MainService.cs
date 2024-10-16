@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TestApplication.Contexts;
-using TestApplication.Models;
+using NotesAPI.Contexts;
+using NotesAPI.Models;
 
-namespace TestApplication.Services
+namespace NotesAPI.Services
 {
     public class MainService
     {
